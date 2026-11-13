@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Introduction",
+        "content": "Python is a coding language. It works as a interpreter."
+    },
+    {
+        "title": "Fundamentals",
+        "content": "In this chapter we will learn about Python Fundamentals."
+    },
+    {
+        "title": "Git",
+        "content": "Git is a Version Control System."
+    }
+]
